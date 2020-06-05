@@ -1,2 +1,2 @@
 # ProjectEuler
-Resoluções do ProjectEuler em fortran e Python
+Resoluções do ProjectEuler em Fortran e Python
