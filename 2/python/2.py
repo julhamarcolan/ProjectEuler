@@ -8,7 +8,7 @@
 max = 4000000
 x1 = 1
 x2 = 2
-# soma = x2 - o número 1 foi considerado ímpar por isso n entra na soma 
+# soma = x2 - o número 1 é ímpar por isso n entra na soma 
 soma = 2
 
 while (x2 < max):
